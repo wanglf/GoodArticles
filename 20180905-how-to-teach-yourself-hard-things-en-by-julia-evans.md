@@ -1,7 +1,10 @@
 ---
 title: How to teach yourself hard things
 author: Julia Evans
-date: 20180905
+added: 20180905
+posted: 20180901
+link: https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/
+HN: https://news.ycombinator.com/item?id=17892796
 
 ---
 
